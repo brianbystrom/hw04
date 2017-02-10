@@ -30,12 +30,30 @@
     </item>
     <item
         is-multidex="true"
+        jar="/Users/brianbystrom/Desktop/ITIS 4180/TriviaApplication/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/Users/brianbystrom/Desktop/ITIS 4180/TriviaApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.0_964315d40aa8645e7463ade9cb234dc5ec6ad96f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="/Users/brianbystrom/Desktop/ITIS 4180/TriviaApp/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
         <dex dex="/Users/brianbystrom/Desktop/ITIS 4180/TriviaApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.0_995a3af4ecf219a7c5979d99e6cccbf78fd5b0d6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/brianbystrom/Desktop/ITIS 4180/TriviaApplication/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
+        <dex dex="/Users/brianbystrom/Desktop/ITIS 4180/TriviaApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.0_a6795d5cebaeaa0a3fea4f5dcd0ac7f9daac7210/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -66,57 +84,12 @@
     </item>
     <item
         is-multidex="false"
-        jar="/Users/brianbystrom/Desktop/ITIS 4180/TriviaApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
-        jumboMode="false"
-        optimize="true"
-        revision="25.0.2"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/Users/brianbystrom/Desktop/ITIS 4180/TriviaApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.1.0_c94ca64da8842e157cf201429ab4168b57a9e9f4.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/brianbystrom/Desktop/ITIS 4180/TriviaApp/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
-        <dex dex="/Users/brianbystrom/Desktop/ITIS 4180/TriviaApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.0_6d1c846078485a9ac046622679cd886866892cdc/classes.dex" />
-    </item>
-    <item
-        is-multidex="false"
         jar="/Users/brianbystrom/Desktop/ITIS 4180/TriviaApp/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.0/jars/classes.jar"
         jumboMode="false"
         optimize="true"
         revision="25.0.2"
         sha1="2a53c4f3518116b8c6aee0e477233f0f7da8616f">
         <dex dex="/Users/brianbystrom/Desktop/ITIS 4180/TriviaApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-25.1.0_83864ed0e06bb0f121f0e0b544660283ea532ad9.jar" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/brianbystrom/Desktop/ITIS 4180/TriviaApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/Users/brianbystrom/Desktop/ITIS 4180/TriviaApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.0_c94ca64da8842e157cf201429ab4168b57a9e9f4/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/brianbystrom/Desktop/ITIS 4180/TriviaApp/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="7c0684fb4a9b344767cd7c96aa7917b6ca697621">
-        <dex dex="/Users/brianbystrom/Desktop/ITIS 4180/TriviaApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_51a6d00714aeb377270b3820d6d0ae2181263ece/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/brianbystrom/Desktop/ITIS 4180/TriviaApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
-        <dex dex="/Users/brianbystrom/Desktop/ITIS 4180/TriviaApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.0_a3ffa12589be845a97fffddfa82af7e9d4970aba/classes.dex" />
     </item>
     <item
         is-multidex="false"
@@ -146,13 +119,13 @@
         <dex dex="/Users/brianbystrom/Desktop/ITIS 4180/TriviaApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.0_b921b3e66b3ef73c95980022ab00a17740d86451/classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="/Users/brianbystrom/Desktop/ITIS 4180/TriviaApp/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="/Users/brianbystrom/Desktop/ITIS 4180/TriviaApplication/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="aee64634871d88a419d59eb743c1258a60f19700">
-        <dex dex="/Users/brianbystrom/Desktop/ITIS 4180/TriviaApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.1.0_afd08be5070080331ab1a041d978692f73ff5834.jar" />
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/Users/brianbystrom/Desktop/ITIS 4180/TriviaApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.0_bbbd6cbebbb0365f9502bee96e9647a6600fb537/classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -165,12 +138,12 @@
     </item>
     <item
         is-multidex="true"
-        jar="/Users/brianbystrom/Desktop/ITIS 4180/TriviaApp/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
+        jar="/Users/brianbystrom/Desktop/ITIS 4180/TriviaApplication/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
-        <dex dex="/Users/brianbystrom/Desktop/ITIS 4180/TriviaApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.0_d137c9ae01e95e552e5f9a89b4971fca6d3ebba8/classes.dex" />
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/Users/brianbystrom/Desktop/ITIS 4180/TriviaApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.0_3aabdfda1fb025f7f5e0edd7d9f13173fcbec35e/classes.dex" />
     </item>
     <item
         is-multidex="false"
@@ -180,6 +153,132 @@
         revision="25.0.2"
         sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
         <dex dex="/Users/brianbystrom/Desktop/ITIS 4180/TriviaApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-25.1.0_0c843fd783f8b7d3c43853b479bcad976e90fca5.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/brianbystrom/Desktop/ITIS 4180/TriviaApplication/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="429a638486f2b1c56e24fbbf76504e23da2c9ce4">
+        <dex dex="/Users/brianbystrom/Desktop/ITIS 4180/TriviaApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_66979305f132153ac39d80a68e7927307348e9e4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/brianbystrom/Desktop/ITIS 4180/TriviaApplication/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ab059d1b4b095970a8bfbe956c456d5fb6583b85">
+        <dex dex="/Users/brianbystrom/Desktop/ITIS 4180/TriviaApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_5473e66474d098ffd7160ae446c23bd351cd1f3d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/brianbystrom/Desktop/ITIS 4180/TriviaApplication/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e79aa3d9a16f8c9f16377c0608de70a8f31e5d80">
+        <dex dex="/Users/brianbystrom/Desktop/ITIS 4180/TriviaApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.0_07d19ae9baa8487b1c1d80d2b2244500f50a0365/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/brianbystrom/Desktop/ITIS 4180/TriviaApplication/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/brianbystrom/Desktop/ITIS 4180/TriviaApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.0_5e54204ccc66e96d436269246dd339324955500a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/brianbystrom/Desktop/ITIS 4180/TriviaApplication/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0a0ef86b7fa568a52bf6214a0326ca1f1d618da7">
+        <dex dex="/Users/brianbystrom/Desktop/ITIS 4180/TriviaApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.0_ad9baeb001cea3b01eb840a869cb4d28e7faed15/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/brianbystrom/Desktop/ITIS 4180/TriviaApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/brianbystrom/Desktop/ITIS 4180/TriviaApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-25.1.0_c94ca64da8842e157cf201429ab4168b57a9e9f4.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/brianbystrom/Desktop/ITIS 4180/TriviaApp/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ca3c7aa31e2726a400a6e552b93cb9f63c9a1e6d">
+        <dex dex="/Users/brianbystrom/Desktop/ITIS 4180/TriviaApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.0_6d1c846078485a9ac046622679cd886866892cdc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/brianbystrom/Desktop/ITIS 4180/TriviaApplication/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="f02263e35e52668dd17b73bf961437e3d562b35f">
+        <dex dex="/Users/brianbystrom/Desktop/ITIS 4180/TriviaApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.0_19730063e1bcd91babc8eba024455885fbce4efe/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/brianbystrom/Desktop/ITIS 4180/TriviaApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/brianbystrom/Desktop/ITIS 4180/TriviaApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.0_c94ca64da8842e157cf201429ab4168b57a9e9f4/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/brianbystrom/Desktop/ITIS 4180/TriviaApp/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7c0684fb4a9b344767cd7c96aa7917b6ca697621">
+        <dex dex="/Users/brianbystrom/Desktop/ITIS 4180/TriviaApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_51a6d00714aeb377270b3820d6d0ae2181263ece/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/brianbystrom/Desktop/ITIS 4180/TriviaApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="1630658fbc2d222b988603c27b4a4249586fbfe7">
+        <dex dex="/Users/brianbystrom/Desktop/ITIS 4180/TriviaApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.0_a3ffa12589be845a97fffddfa82af7e9d4970aba/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/brianbystrom/Desktop/ITIS 4180/TriviaApplication/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/Users/brianbystrom/Desktop/ITIS 4180/TriviaApplication/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.0_3270b9114acb598955f314ca23713a9603651e07/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/brianbystrom/Desktop/ITIS 4180/TriviaApp/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="aee64634871d88a419d59eb743c1258a60f19700">
+        <dex dex="/Users/brianbystrom/Desktop/ITIS 4180/TriviaApp/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-25.1.0_afd08be5070080331ab1a041d978692f73ff5834.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/brianbystrom/Desktop/ITIS 4180/TriviaApp/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6fb6ac3e8d3b9013819920d9ea11f3803c4c0033">
+        <dex dex="/Users/brianbystrom/Desktop/ITIS 4180/TriviaApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.0_d137c9ae01e95e552e5f9a89b4971fca6d3ebba8/classes.dex" />
     </item>
     <item
         is-multidex="false"
